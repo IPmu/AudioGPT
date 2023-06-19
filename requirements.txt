@@ -41,7 +41,7 @@ proglog==0.1.9
 pycwt==0.3.0a22
 pyloudnorm==0.1.0
 pypinyin==0.43.0
-pytorch-lightning==1.5.0
+pytorch-lightning==1.6.0
 pytorch-ssim==0.1
 pyworld==0.3.0
 resampy==0.2.2
