@@ -21,7 +21,7 @@ imageio-ffmpeg==0.4.2
 invisible-watermark>=0.1.5
 jieba
 kornia==0.6
-langchain==0.0.101
+langchain==0.0.246
 librosa
 loguru
 miditoolkit==0.1.7
